@@ -41,4 +41,4 @@ This data was generated from resources of the Argonne Leadership Computing Facil
 
 ## Citation
 
-Add the final citation here after acceptance.
+N/A for now
