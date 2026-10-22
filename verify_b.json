@@ -1,0 +1,8 @@
+{
+ "sampled_jobs": 4000,
+ "jobs_with_unfinished_same_user_jobs_perturbed": 17405491,
+ "contexts_with_changed_rows": 0,
+ "contexts_with_changed_runtime_values": 0,
+ "saved_contexts_match_rebuild": true,
+ "perturbation": "all same-user jobs unfinished at the submit time get a later end time and a new runtime"
+}
