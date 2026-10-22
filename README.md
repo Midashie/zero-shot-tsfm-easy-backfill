@@ -39,7 +39,3 @@ This data was generated from resources of the Argonne Leadership Computing Facil
 5. **Run time.** The Chronos-Bolt replays dominate the cost. The queues ran for many hours.
 
 The CENTILE loader that `g3/g3_fdata.py` calls reads `~/nfm/data/fdata/*.parquet`, so put or link the F-DATA file there.
-
-## Citation
-
-Add the final citation here after acceptance.
