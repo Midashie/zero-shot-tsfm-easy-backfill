@@ -1,0 +1,42 @@
+{
+ "nodes": 23000,
+ "dropped_too_wide": 36,
+ "arms": {
+  "TimesFM-2.5 q0.5": {
+   "mean_bs": 39.935613168487095,
+   "p95_bs": 87.81741854506357,
+   "util_pct": 85.69752845514775,
+   "backfilled": 40135,
+   "median_wait_s": 64.0,
+   "started_pct": 100.0,
+   "killed": 0
+  },
+  "TimesFM-2.5 q0.6": {
+   "mean_bs": 36.47775303443138,
+   "p95_bs": 38.20126005211672,
+   "util_pct": 84.72613113162899,
+   "backfilled": 39793,
+   "median_wait_s": 133.0,
+   "started_pct": 100.0,
+   "killed": 0
+  },
+  "TimesFM-2.5 q0.7": {
+   "mean_bs": 44.21943980804733,
+   "p95_bs": 56.85,
+   "util_pct": 83.21939119190014,
+   "backfilled": 40147,
+   "median_wait_s": 214.0,
+   "started_pct": 100.0,
+   "killed": 0
+  },
+  "TimesFM-2.5 q0.8": {
+   "mean_bs": 47.47219884541868,
+   "p95_bs": 71.67009139907591,
+   "util_pct": 86.25067872951931,
+   "backfilled": 39514,
+   "median_wait_s": 252.0,
+   "started_pct": 100.0,
+   "killed": 0
+  }
+ }
+}
